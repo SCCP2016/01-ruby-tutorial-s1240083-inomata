@@ -4,5 +4,6 @@ if a < b then
   puts"a < b"
 elsif a > b then
   puts"a > b"
-elsif a == b then
+elsif
   puts"a == b"
+end
