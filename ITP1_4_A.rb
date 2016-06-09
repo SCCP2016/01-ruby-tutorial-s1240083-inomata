@@ -4,4 +4,4 @@ d = a/b
 r = a%b
 f = a/b.to_f
 
-print d," ",r," ",f.round(6),"\n"
+puts d.to_s + " " + r.to_s + " " + f.round(6).to_s
